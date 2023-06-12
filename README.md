@@ -1,12 +1,12 @@
-<h1 style="text-align: center; margin-bottom: 5px;">Hi, I'm Keven<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h1 style="text-align: center; margin-bottom: 5px;">Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="hi" style="width: 30px;margin-left: 10px;"></h1>
 
-Welcome to my profile!
-I work for a major Fortune 500 Brand as a Sr. B&AI Analyst in vertical licensing and commercialization.
-Currently learning Solidity, and enhancing skills with ReactJS, VueJS, and Typescript.
+_Welcome to my profile!_ <br>
+_Currently exploring Solidity, Typescript, and Git._   
+_Open to collaborating on interesting and innovative projects._
 
-Open to collaborating on interesting and innovative projects.
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Skills</b>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 
 <p align="center">
 
