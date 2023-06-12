@@ -5,7 +5,7 @@
 <br><br><br><br><br><br>
 <p align="center">
   <em> I'm Keven!</em> <br>
-    <em>Currently exploring Solidity, Typescript, and Git.</em> <br>
+    <em>Currently exploring Solidity, Typescript, & Git.</em> <br>
       <em>Open to collaborating on interesting & innovative projects.</em> <br>
 </p>
 
