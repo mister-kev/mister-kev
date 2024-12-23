@@ -1,6 +1,6 @@
 <h2 align="center">Hi there!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="hi" style="width: 30px;margin-left: 10px;"></h2>
 
-<img align="left" src="https://i.seadn.io/gcs/files/e77bd4a8bf23416f1018f6773e9d1d1e.png?auto=format&dpr=1&w=350">
+<img align="left" src="https://new-dawn-assets.b-cdn.net/tokens/1-9302-1dd92faf-b062-43c9-b310-55f93db23f0b.png?auto=format&dpr=1&w=350">
 
 <br><br><br><br><br><br>
 <p align="center">
